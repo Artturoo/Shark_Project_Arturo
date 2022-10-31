@@ -10,7 +10,7 @@ Para ello, hemos tenido que importar un archivo de datos facilitado por Kaggle, 
 ## Requisitos:
 1. Borrar columnas solo si tienen más del 80% de valores nulos.
 2. Mínimo tiene que tener 6.000 mil filas.
-3. Tiene que tener el mismo tipo dato de columna
+3. Tiene que tener el mismo tipo de dato en la columna
 
 ## Objetivo:
 Saber cual es la especie de tiburón más peligrosa y analizar el % de incidencia eque tiene según el genero de la victima.
