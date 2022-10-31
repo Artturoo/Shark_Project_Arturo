@@ -7,7 +7,7 @@ En este proyecto, vamos a manipular y limpiar un conjunto de datos para posterio
 
 ## Intro
 La finalidad del ejercicio es poner en prática todo lo aprendido sobre **exploración, limpieza, análisis y visualización de datos.**
-Para ello, hemos tenido que importar un archivo de datos facilitado por Kaggle, que contiene registros globales de ataques de tiburones. La fuente es la siguiente:
+Para ello, hemos tenido que importar un archivo de datos facilitado por Kaggle, que contiene registros globales de ataques de tiburones. La fuente es la siguiente: https://www.kaggle.com/datasets/teajay/global-shark-attacks
 
 ## Requisitos:
 1. Borrar columnas solo si tienen más del 80% de valores nulos.
