@@ -1,8 +1,8 @@
-![img](IH.png)
+![img](Pics/IH.png)
 
 # Shark Attacks Project I 
 
-![img](intropic.png)
+![img](Pics/intropic.png)
 
 ## Data Cleaning and Manipulation with Pandas
 En este proyecto, vamos a manipular y limpiar un conjunto de datos para posteriormente analizarlo y poder sacar diferentes conclusiones. 
@@ -53,16 +53,16 @@ Vemos que el tiburón blanco es la especie que más se repite (seguido del tibur
 
 Observamos en la gráfica de abajo, que en el 68% de los casos, los ataques no son mortales, mientras que en el 22% sí. El 10% restante son valores nulos que desconocemos:
 
-![img](ataquesNoMortales.png)
+![img](Pics/ataquesNoMortales.png)
 
 
 Por otro lado, comprobamos también que los hombres tienden a ser mucho más atacados que las mujeres:
 
-![img](whitesharkattacks.png)
+![img](Pics/whitesharkattacks.png)
 
 Y para finalizar, observamos en la siguiente tabla que el 73% de los casos, los ataques tanto a hombres como a mujeres son Unprovoked, mientras que el 9% son Provoked:
 
-![img](AttackType.png)
+![img](Pics/AttackType.png)
 
 
 Concluimos este análisis comprobando que el tiburón blanco es la especie más agresiva, y que en la mayoría de los casos y si tienes suerte no suele ser mortal. Así mismo si eres mujer tienes menos probabilidad de ser atacada por un tiburón.
