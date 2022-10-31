@@ -15,7 +15,7 @@ Para ello, hemos tenido que importar un archivo de datos facilitado por Kaggle, 
 3. Tiene que tener el mismo tipo de dato en la columna
 
 ## Objetivo:
-Saber cual es la especie de tiburón más peligrosa y analizar el % de incidencia eque tiene según el genero de la victima.
+Saber cual es la especie de tiburón más peligrosa y analizar el % de incidencia que tiene según el género de la victima y la probabilidad de que sea ataque mortal o no.
 
 ## Procedimiento:
 
