@@ -1,6 +1,6 @@
 # Shark Attacks Project I 
 
-![img](Pics/intropic.png)
+
 
 ## Data Cleaning and Manipulation with Pandas
 En este proyecto, vamos a manipular y limpiar un conjunto de datos para posteriormente analizarlo y poder sacar diferentes conclusiones. 
